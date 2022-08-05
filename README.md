@@ -1,4 +1,4 @@
-# Handwritten-Digits-Recognizer
+## Handwritten-Digits-Recognizer
 My first deep learning project. 
 
 
